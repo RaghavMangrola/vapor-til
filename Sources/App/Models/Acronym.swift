@@ -43,3 +43,4 @@ final class Acronym: Codable {
 extension Acronym: PostgreSQLUUIDModel{}
 extension Acronym: Content {}
 extension Acronym: Migration {}
+extension Acronym: Parameter {}
